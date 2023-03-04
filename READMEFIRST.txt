@@ -1,0 +1,3 @@
+Notes: The basic Operation of Operand->Operator->Operand will work if the negative sign(at the beginning), decimal or parentheses is NOT pressed. This is purposeful so that it can distinguish between Basic and Advanced mode. Once Advanced mode is activated the equal sign must be pressed to complete an operation. This is done so nesting parenthesis would be allowed along with negative numbers and such.
+
+Advanced parts- allows for decimal,Parenthesis and negative
